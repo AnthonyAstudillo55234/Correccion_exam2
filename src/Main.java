@@ -1,8 +1,6 @@
 package src;
 import src.viajes.*;
 
-import java.sql.SQLOutput;
-
 public class Main {
     public static void main(String[] args) {
         Normal cliente1 = new Normal("Juan","1726195207",19,"Quito","1234","14/06/2024","15/06/2024",5,"Quito","Cuenca",23.25,"ventana",1,true,5.00);
